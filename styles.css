@@ -1,4 +1,3 @@
-/*  your css code here. If applicable */
 body {
     font-family: Arial, sans-serif;
     background-color: #ffffff;
@@ -13,7 +12,7 @@ body {
     margin: 0 auto;
 }
 
-.testimonials-container h2 {
+.testimonials-container h1 {
     font-size: 2em;
     font-weight: bold;
     margin-bottom: 20px;
@@ -34,4 +33,11 @@ body {
     text-align: right;
     font-style: italic;
     margin: 0;
+}
+
+.extra-content {
+    padding: 20px;
+    background-color: #ffffff;
+    border: 1px solid #dddddd;
+    margin-bottom: 20px;
 }
